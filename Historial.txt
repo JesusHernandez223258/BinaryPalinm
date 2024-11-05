@@ -1,0 +1,51 @@
+s
+1s1
+10s01
+100s001
+1001s1001
+10010s01001
+El palíndromo generado es: 1001001001    Se agregó la cadena vacía ε
+s
+1s1
+10s01
+100s001
+El palíndromo generado es: 1000001
+s
+1s1
+10s01
+101s101
+El palíndromo generado es: 101101    Se agregó la cadena vacía ε
+s
+1s1
+10s01
+100s001
+El palíndromo generado es: 1001001
+El palíndromo generado es: 111101111100111101111100
+El palíndromo generado es: 1010
+s
+1s1
+10s01
+101s101
+1011s1101
+10111s11101
+101111s111101
+1011110s0111101
+10111100s00111101
+101111000s000111101
+El palíndromo generado es: 101111000000111101    Se agregó la cadena vacía ε
+s
+1s1
+11s11
+El palíndromo generado es: 11011
+El palíndromo generado es: 000
+El palíndromo generado es: 010010    Se agregó la cadena vacía ε
+El palíndromo generado es: 00100
+El palíndromo generado es: 0101000001000001010
+El palíndromo generado es: 00000000    Se agregó la cadena vacía ε
+El palíndromo generado es: 10011001010011001
+El palíndromo generado es: 111000000000111
+El palíndromo generado es: 1001    Se agregó la cadena vacía ε
+El palíndromo generado es: 0000    Se agregó la cadena vacía ε
+El palíndromo generado es: 00100
+El palíndromo generado es: 1100101111010011    Se agregó la cadena vacía ε
+El palíndromo generado es: 00000
